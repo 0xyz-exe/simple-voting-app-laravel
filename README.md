@@ -1,22 +1,23 @@
 # Simple Voting App
 
-Laravel polling application with live results, multiple-choice support, and open/close controls.
-
 Repository: https://github.com/0xyz-exe/simple-voting-app-laravel
 
 ## Screenshots
 
 ### Polls Index & Status
-![Polls index](docs/screenshots/03_polls_list.png)
+![Polls index](docs/screenshots/01_polls_list.png)
 
 ### Poll Details, Voting & Percentage Breakdown
-![Poll detail](docs/screenshots/04_poll_detail.png)
+![Poll detail](docs/screenshots/02_poll_detail.png)
 
 ### Create New Poll
-![Create poll](docs/screenshots/05_create_poll.png)
+![Create poll](docs/screenshots/03_create_poll.png)
+
+### Welcome Page
+![Welcome](docs/screenshots/04_welcome.png)
 
 ### Authentication
-![Authentication](docs/screenshots/02_login.png)
+![Authentication](docs/screenshots/05_login.png)
 
 ## Features
 
