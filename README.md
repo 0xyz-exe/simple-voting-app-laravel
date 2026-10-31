@@ -4,20 +4,12 @@ Repository: https://github.com/0xyz-exe/simple-voting-app-laravel
 
 ## Screenshots
 
-### Polls Index & Status
-![Polls index](docs/screenshots/01_polls_list.png)
-
-### Poll Details, Voting & Percentage Breakdown
-![Poll detail](docs/screenshots/02_poll_detail.png)
-
-### Create New Poll
-![Create poll](docs/screenshots/03_create_poll.png)
-
-### Welcome Page
-![Welcome](docs/screenshots/04_welcome.png)
-
-### Authentication
-![Authentication](docs/screenshots/05_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Daftar Jajak Pendapat & Status Voting**<br>Tampilan antarmuka utama polling dengan ringkasan pertanyaan, badge status (Open/Closed), total suara pemilih, jumlah opsi pilihan, dan kontrol pembukaan/penutupan voting | ![Daftar Jajak Pendapat & Status Voting](docs/screenshots/01-dashboard-overview.png) |
+| **Formulir Pembuatan Jajak Pendapat Baru**<br>Formulir pembuatan polling interaktif dengan input pertanyaan, deskripsi latar belakang, opsi multi-choice, batas waktu voting, dan manajemen input opsi dinamis | ![Formulir Pembuatan Jajak Pendapat Baru](docs/screenshots/02-create-poll-form.png) |
+| **Formulir Voting Interaktif & Hasil Persentase Suara**<br>Halaman detail polling aktif dengan formulir pemilihan opsi suara, tombol submit Cast Vote, dan visualisasi bar hasil perolehan suara secara real-time | ![Formulir Voting Interaktif & Hasil Persentase Suara](docs/screenshots/03-poll-voting-results.png) |
+| **Rekapitulasi Hasil Polling Tertutup (Final Breakdown)**<br>Halaman hasil voting tertutup menampilkan indikator tanda centang (✓) opsi yang dipilih pengguna, persentase akhir suara, dan kontrol pembukaan ulang | ![Rekapitulasi Hasil Polling Tertutup](docs/screenshots/04-closed-poll-results.png) |
 
 ## Features
 
